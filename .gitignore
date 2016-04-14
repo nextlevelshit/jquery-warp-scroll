@@ -1,0 +1,7 @@
+# IDE Files
+.idea/*
+
+
+# Components and Dependencies
+/node_modules/
+
