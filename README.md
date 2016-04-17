@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.org/nextlevelshit/jquery-warp-scroll.svg?branch=master)](https://travis-ci.org/nextlevelshit/jquery-warp-scroll)
 
 > SUPER EARLY STATUS OF DEVELOPMENT
-> Referenced from [angular-warp-scroll](//github.com/nextlevelshit/angular-warp-scroll)
+> (Referenced from [angular-warp-scroll](//github.com/nextlevelshit/angular-warp-scroll))
 
 ## Demo
 
