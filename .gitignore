@@ -1,6 +1,8 @@
 # IDE Files
 .idea/*
 
+# Log files
+*.log
 
 # Components and Dependencies
 /node_modules/
