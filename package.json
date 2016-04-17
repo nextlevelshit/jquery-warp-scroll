@@ -4,7 +4,7 @@
   "description": "UI to zoom into your website instead of scrolling up and down",
   "main": "src/jquery-warp-scroll.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "karma start"
   },
   "repository": {
     "type": "git",
@@ -42,7 +42,12 @@
     "jshint-stylish": "^2.1.0",
     "karma": "^0.13.22",
     "karma-chrome-launcher": "^0.2.3",
-    "karma-jasmine": "^0.3.8"
+    "karma-clear-screen-reporter": "^1.0.0",
+    "karma-jasmine": "^0.3.8",
+    "karma-junit-reporter": "^0.4.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-spec-reporter": "0.0.26",
+    "phantomjs-prebuilt": "^2.1.7"
   },
   "dependencies": {
     "jquery": "^2.2.3"
