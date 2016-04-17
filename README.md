@@ -15,7 +15,7 @@
 Pay safe you've installed `npm` already on your machine.
 
 ```
-$ npm -v
+npm -v
 ```
 
 If you've installed a newer version than v0.8, continue, else install `npm'.
@@ -23,7 +23,7 @@ If you've installed a newer version than v0.8, continue, else install `npm'.
 ### 1. Installation
 
 ```
-$ npm i jquery-warp-scroll
+npm i jquery-warp-scroll
 ```
 
 ### 2. Implementation
